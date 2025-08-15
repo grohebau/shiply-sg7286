@@ -3,10 +3,10 @@
     "status": "Warten auf Zahlung",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
-    "receiver": "Ionuta Manuela Marin, Peris str. 20A, 085100 Bolintin-Vale, Rumänien",
+    "receiver": "Ionuta Manuela Marin, Peris str. 20A, 022715 Bukarest, Rumänien",
     "price": "4.350 €",
     "description": "Hersteller: Yamaha<br>Typ: YZF-R125<br>Fahrgestelnummer: VG5RE401000009059<br>Erstzulassung: 03/2022<br>KM laut Vorbesitzer: 2.621 km<br>Leistung: 11 kW (15 PS)<br>Hubraum: 125 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
-    "address": "Ionuta Manuela Marin<br>Peris str. 20A<br>085100 Bolintin-Vale<br>Rumänien<br>Telefon: +40 728380393",
+    "address": "Ionuta Manuela Marin<br>Peris str. 20A<br>022715 Bukarest<br>Rumänien<br>Telefon: +40 728380393",
     "documents": [
       { "name": "Lieferschein", "url": "docs/Lieferschein.pdf" },
       { "name": "Kaufvertrag", "url": "docs/Kaufvertrag.pdf" },
@@ -14,6 +14,6 @@
       { "name": "AGB", "url": "docs/AGB.pdf" }
     ],
     "orderDate": "15-08-2025",
-    "deliveryDate": "21-08-2025"
+    "deliveryDate": "25-08-2025"
   }
 }
